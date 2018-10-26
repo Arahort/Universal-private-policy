@@ -36,6 +36,7 @@
     * Подключаем javascript и настраиваем параметры ниже в зависимости от сайта, здесь все вроде элементарно и просто
     * На сайте должен быть подключен jQuery!
     -->
+    <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/1.0.10/cookieconsent.min.js"></script>
     <script type="text/javascript">
         window.cookieconsent_options = {
             message: 'Пользуясь сайтом https://arahort.pro/, Вы автоматически принимаете правила передачи и обработки персональных данных.',
@@ -46,7 +47,6 @@
             theme: 'dark-bottom'
         };
     </script>
-    <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/1.0.10/cookieconsent.min.js"></script>
     <!--/JS-->
 </head>
 ```
