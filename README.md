@@ -58,10 +58,7 @@
 
 ```css
 .cc_container{z-index: 9999 !important;}
-.jivo-iframe-container-bottom{z-index: 9000 !important;}
-.jdiv{z-index: 9000 !important;}
-.globalClass_ET{z-index: 9000 !important;}
-._init_Tk{z-index: 9000 !important;}
+#jvlabelWrap{z-index: 9000 !important;}
 ```
 
 ---
